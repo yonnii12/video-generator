@@ -1,0 +1,2035 @@
+{
+  "title": "La Paradoja del Software Moderno en Apple Silicon M5",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "scenes": [
+    {
+      "id": "scene_01_hook",
+      "dialogue": "El Apolo once llegó a la Luna con treinta y seis kilobytes, pero tu app de notas pide cuatro gigas.",
+      "speaker": "narrator",
+      "durationInFrames": 201,
+      "characterPose": "shocked",
+      "cameraAction": "zoom_in_fast",
+      "sfx": "whoosh",
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "C"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "B"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "C"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "B"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "D"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "B"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "D"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "B"
+        },
+        {
+          "start": 0.9,
+          "end": 1,
+          "value": "C"
+        },
+        {
+          "start": 1,
+          "end": 1.1,
+          "value": "B"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "D"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "B"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "C"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "A"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "D"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "A"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "D"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "B"
+        },
+        {
+          "start": 1.9,
+          "end": 2,
+          "value": "D"
+        },
+        {
+          "start": 2,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "C"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "A"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "C"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "B"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "D"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "B"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "C"
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "value": "B"
+        },
+        {
+          "start": 2.9,
+          "end": 3,
+          "value": "C"
+        },
+        {
+          "start": 3,
+          "end": 3.1,
+          "value": "B"
+        },
+        {
+          "start": 3.1,
+          "end": 3.2,
+          "value": "C"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "value": "B"
+        },
+        {
+          "start": 3.3,
+          "end": 3.4,
+          "value": "C"
+        },
+        {
+          "start": 3.4,
+          "end": 3.5,
+          "value": "B"
+        },
+        {
+          "start": 3.5,
+          "end": 3.6,
+          "value": "D"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "value": "B"
+        },
+        {
+          "start": 3.7,
+          "end": 3.8,
+          "value": "C"
+        },
+        {
+          "start": 3.8,
+          "end": 3.9,
+          "value": "A"
+        },
+        {
+          "start": 3.9,
+          "end": 4,
+          "value": "D"
+        },
+        {
+          "start": 4,
+          "end": 4.1,
+          "value": "B"
+        },
+        {
+          "start": 4.1,
+          "end": 4.2,
+          "value": "D"
+        },
+        {
+          "start": 4.2,
+          "end": 4.3,
+          "value": "B"
+        },
+        {
+          "start": 4.3,
+          "end": 4.4,
+          "value": "C"
+        },
+        {
+          "start": 4.4,
+          "end": 4.5,
+          "value": "B"
+        },
+        {
+          "start": 4.5,
+          "end": 4.6,
+          "value": "C"
+        },
+        {
+          "start": 4.6,
+          "end": 4.7,
+          "value": "B"
+        },
+        {
+          "start": 4.7,
+          "end": 4.8,
+          "value": "D"
+        },
+        {
+          "start": 4.8,
+          "end": 4.9,
+          "value": "A"
+        },
+        {
+          "start": 4.9,
+          "end": 5,
+          "value": "D"
+        },
+        {
+          "start": 5,
+          "end": 5.1,
+          "value": "B"
+        },
+        {
+          "start": 5.1,
+          "end": 5.2,
+          "value": "D"
+        },
+        {
+          "start": 5.2,
+          "end": 5.3,
+          "value": "A"
+        },
+        {
+          "start": 5.3,
+          "end": 5.4,
+          "value": "C"
+        },
+        {
+          "start": 5.4,
+          "end": 5.5,
+          "value": "B"
+        },
+        {
+          "start": 5.5,
+          "end": 5.6,
+          "value": "C"
+        },
+        {
+          "start": 5.6,
+          "end": 5.7,
+          "value": "B"
+        },
+        {
+          "start": 5.7,
+          "end": 5.8,
+          "value": "D"
+        },
+        {
+          "start": 5.8,
+          "end": 5.9,
+          "value": "B"
+        },
+        {
+          "start": 5.9,
+          "end": 6,
+          "value": "C"
+        },
+        {
+          "start": 6,
+          "end": 6.1,
+          "value": "B"
+        },
+        {
+          "start": 6.1,
+          "end": 6.2,
+          "value": "C"
+        },
+        {
+          "start": 6.2,
+          "end": 6.3,
+          "value": "B"
+        },
+        {
+          "start": 6.3,
+          "end": 6.4,
+          "value": "D"
+        },
+        {
+          "start": 6.4,
+          "end": 6.67,
+          "value": "X"
+        }
+      ],
+      "wordTimestamps": [
+        {
+          "word": "El",
+          "start": 0.05,
+          "end": 0.237
+        },
+        {
+          "word": "Apolo",
+          "start": 0.25,
+          "end": 0.6
+        },
+        {
+          "word": "once",
+          "start": 0.612,
+          "end": 0.9
+        },
+        {
+          "word": "llegó",
+          "start": 0.912,
+          "end": 1.212
+        },
+        {
+          "word": "a",
+          "start": 1.225,
+          "end": 1.262
+        },
+        {
+          "word": "la",
+          "start": 1.275,
+          "end": 1.387
+        },
+        {
+          "word": "Luna",
+          "start": 1.4,
+          "end": 1.675
+        },
+        {
+          "word": "con",
+          "start": 1.687,
+          "end": 1.887
+        },
+        {
+          "word": "treinta",
+          "start": 1.9,
+          "end": 2.2
+        },
+        {
+          "word": "y",
+          "start": 2.212,
+          "end": 2.262
+        },
+        {
+          "word": "seis",
+          "start": 2.275,
+          "end": 2.562
+        },
+        {
+          "word": "kilobytes,",
+          "start": 2.575,
+          "end": 3.225
+        },
+        {
+          "word": "pero",
+          "start": 3.5,
+          "end": 3.712
+        },
+        {
+          "word": "tu",
+          "start": 3.725,
+          "end": 3.9
+        },
+        {
+          "word": "app",
+          "start": 3.912,
+          "end": 4.062
+        },
+        {
+          "word": "de",
+          "start": 4.075,
+          "end": 4.175
+        },
+        {
+          "word": "notas",
+          "start": 4.187,
+          "end": 4.6
+        },
+        {
+          "word": "pide",
+          "start": 4.612,
+          "end": 4.9
+        },
+        {
+          "word": "cuatro",
+          "start": 4.912,
+          "end": 5.237
+        },
+        {
+          "word": "gigas.",
+          "start": 5.25,
+          "end": 5.8
+        }
+      ],
+      "visualTemplate": {
+        "type": "character_focus",
+        "headline": "36 KB para alunizar vs. 4 GB para un botón",
+        "subtitle": "Cómo la ley de Wirth devora el hardware más rápido de la historia.",
+        "badge": "EPISODIO 01 · ARQUITECTURA & HUMOR",
+        "accentColor": "#38bdf8"
+      }
+    },
+    {
+      "id": "scene_02_split",
+      "dialogue": "En mil novecientos sesenta y nueve optimizábamos cada bit; hoy empaquetamos un navegador entero solo para mostrar un reloj.",
+      "speaker": "narrator",
+      "durationInFrames": 228,
+      "characterPose": "sarcastic",
+      "cameraAction": "pan_left",
+      "sfx": "record_scratch",
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.08,
+          "value": "B"
+        },
+        {
+          "start": 0.08,
+          "end": 0.16,
+          "value": "C"
+        },
+        {
+          "start": 0.16,
+          "end": 0.24,
+          "value": "A"
+        },
+        {
+          "start": 0.24,
+          "end": 0.32,
+          "value": "C"
+        },
+        {
+          "start": 0.32,
+          "end": 0.4,
+          "value": "B"
+        },
+        {
+          "start": 0.4,
+          "end": 0.48,
+          "value": "D"
+        },
+        {
+          "start": 0.48,
+          "end": 0.56,
+          "value": "B"
+        },
+        {
+          "start": 0.56,
+          "end": 0.64,
+          "value": "D"
+        },
+        {
+          "start": 0.64,
+          "end": 0.72,
+          "value": "B"
+        },
+        {
+          "start": 0.72,
+          "end": 0.8,
+          "value": "D"
+        },
+        {
+          "start": 0.8,
+          "end": 0.88,
+          "value": "B"
+        },
+        {
+          "start": 0.88,
+          "end": 0.96,
+          "value": "C"
+        },
+        {
+          "start": 0.96,
+          "end": 1.04,
+          "value": "B"
+        },
+        {
+          "start": 1.04,
+          "end": 1.12,
+          "value": "C"
+        },
+        {
+          "start": 1.12,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.28,
+          "value": "C"
+        },
+        {
+          "start": 1.28,
+          "end": 1.36,
+          "value": "B"
+        },
+        {
+          "start": 1.36,
+          "end": 1.44,
+          "value": "D"
+        },
+        {
+          "start": 1.44,
+          "end": 1.52,
+          "value": "A"
+        },
+        {
+          "start": 1.52,
+          "end": 1.6,
+          "value": "C"
+        },
+        {
+          "start": 1.6,
+          "end": 1.68,
+          "value": "B"
+        },
+        {
+          "start": 1.68,
+          "end": 1.76,
+          "value": "C"
+        },
+        {
+          "start": 1.76,
+          "end": 1.84,
+          "value": "A"
+        },
+        {
+          "start": 1.84,
+          "end": 1.92,
+          "value": "D"
+        },
+        {
+          "start": 1.92,
+          "end": 2,
+          "value": "B"
+        },
+        {
+          "start": 2,
+          "end": 2.08,
+          "value": "C"
+        },
+        {
+          "start": 2.08,
+          "end": 2.16,
+          "value": "B"
+        },
+        {
+          "start": 2.16,
+          "end": 2.24,
+          "value": "C"
+        },
+        {
+          "start": 2.24,
+          "end": 2.32,
+          "value": "B"
+        },
+        {
+          "start": 2.32,
+          "end": 2.4,
+          "value": "C"
+        },
+        {
+          "start": 2.4,
+          "end": 2.48,
+          "value": "A"
+        },
+        {
+          "start": 2.48,
+          "end": 2.56,
+          "value": "D"
+        },
+        {
+          "start": 2.56,
+          "end": 2.64,
+          "value": "B"
+        },
+        {
+          "start": 2.64,
+          "end": 2.72,
+          "value": "C"
+        },
+        {
+          "start": 2.72,
+          "end": 2.8,
+          "value": "B"
+        },
+        {
+          "start": 2.8,
+          "end": 2.88,
+          "value": "C"
+        },
+        {
+          "start": 2.88,
+          "end": 2.96,
+          "value": "B"
+        },
+        {
+          "start": 2.96,
+          "end": 3.04,
+          "value": "D"
+        },
+        {
+          "start": 3.04,
+          "end": 3.12,
+          "value": "A"
+        },
+        {
+          "start": 3.12,
+          "end": 3.2,
+          "value": "C"
+        },
+        {
+          "start": 3.2,
+          "end": 3.28,
+          "value": "B"
+        },
+        {
+          "start": 3.28,
+          "end": 3.36,
+          "value": "D"
+        },
+        {
+          "start": 3.36,
+          "end": 3.44,
+          "value": "A"
+        },
+        {
+          "start": 3.44,
+          "end": 3.52,
+          "value": "C"
+        },
+        {
+          "start": 3.52,
+          "end": 3.6,
+          "value": "B"
+        },
+        {
+          "start": 3.6,
+          "end": 3.68,
+          "value": "D"
+        },
+        {
+          "start": 3.68,
+          "end": 3.76,
+          "value": "B"
+        },
+        {
+          "start": 3.76,
+          "end": 3.84,
+          "value": "C"
+        },
+        {
+          "start": 3.84,
+          "end": 3.92,
+          "value": "A"
+        },
+        {
+          "start": 3.92,
+          "end": 4,
+          "value": "D"
+        },
+        {
+          "start": 4,
+          "end": 4.08,
+          "value": "B"
+        },
+        {
+          "start": 4.08,
+          "end": 4.16,
+          "value": "D"
+        },
+        {
+          "start": 4.16,
+          "end": 4.24,
+          "value": "B"
+        },
+        {
+          "start": 4.24,
+          "end": 4.32,
+          "value": "C"
+        },
+        {
+          "start": 4.32,
+          "end": 4.4,
+          "value": "A"
+        },
+        {
+          "start": 4.4,
+          "end": 4.48,
+          "value": "C"
+        },
+        {
+          "start": 4.48,
+          "end": 4.56,
+          "value": "B"
+        },
+        {
+          "start": 4.56,
+          "end": 4.64,
+          "value": "C"
+        },
+        {
+          "start": 4.64,
+          "end": 4.72,
+          "value": "B"
+        },
+        {
+          "start": 4.72,
+          "end": 4.8,
+          "value": "D"
+        },
+        {
+          "start": 4.8,
+          "end": 4.88,
+          "value": "B"
+        },
+        {
+          "start": 4.88,
+          "end": 4.96,
+          "value": "C"
+        },
+        {
+          "start": 4.96,
+          "end": 5.04,
+          "value": "B"
+        },
+        {
+          "start": 5.04,
+          "end": 5.12,
+          "value": "D"
+        },
+        {
+          "start": 5.12,
+          "end": 5.2,
+          "value": "B"
+        },
+        {
+          "start": 5.2,
+          "end": 5.28,
+          "value": "C"
+        },
+        {
+          "start": 5.28,
+          "end": 5.36,
+          "value": "B"
+        },
+        {
+          "start": 5.36,
+          "end": 5.44,
+          "value": "D"
+        },
+        {
+          "start": 5.44,
+          "end": 5.52,
+          "value": "B"
+        },
+        {
+          "start": 5.52,
+          "end": 5.6,
+          "value": "D"
+        },
+        {
+          "start": 5.6,
+          "end": 5.68,
+          "value": "B"
+        },
+        {
+          "start": 5.68,
+          "end": 5.76,
+          "value": "C"
+        },
+        {
+          "start": 5.76,
+          "end": 5.84,
+          "value": "A"
+        },
+        {
+          "start": 5.84,
+          "end": 5.92,
+          "value": "D"
+        },
+        {
+          "start": 5.92,
+          "end": 6,
+          "value": "A"
+        },
+        {
+          "start": 6,
+          "end": 6.08,
+          "value": "C"
+        },
+        {
+          "start": 6.08,
+          "end": 6.16,
+          "value": "A"
+        },
+        {
+          "start": 6.16,
+          "end": 6.24,
+          "value": "D"
+        },
+        {
+          "start": 6.24,
+          "end": 6.32,
+          "value": "B"
+        },
+        {
+          "start": 6.32,
+          "end": 6.4,
+          "value": "D"
+        },
+        {
+          "start": 6.4,
+          "end": 6.48,
+          "value": "B"
+        },
+        {
+          "start": 6.48,
+          "end": 6.56,
+          "value": "C"
+        },
+        {
+          "start": 6.56,
+          "end": 6.64,
+          "value": "B"
+        },
+        {
+          "start": 6.64,
+          "end": 6.72,
+          "value": "C"
+        },
+        {
+          "start": 6.72,
+          "end": 6.8,
+          "value": "B"
+        },
+        {
+          "start": 6.8,
+          "end": 6.88,
+          "value": "D"
+        },
+        {
+          "start": 6.88,
+          "end": 7.58,
+          "value": "X"
+        }
+      ],
+      "wordTimestamps": [
+        {
+          "word": "En",
+          "start": 0.05,
+          "end": 0.225
+        },
+        {
+          "word": "mil",
+          "start": 0.237,
+          "end": 0.4
+        },
+        {
+          "word": "novecientos",
+          "start": 0.412,
+          "end": 0.975
+        },
+        {
+          "word": "sesenta",
+          "start": 0.987,
+          "end": 1.362
+        },
+        {
+          "word": "y",
+          "start": 1.375,
+          "end": 1.412
+        },
+        {
+          "word": "nueve",
+          "start": 1.425,
+          "end": 1.675
+        },
+        {
+          "word": "optimizábamos",
+          "start": 1.687,
+          "end": 2.475
+        },
+        {
+          "word": "cada",
+          "start": 2.487,
+          "end": 2.737
+        },
+        {
+          "word": "bit;",
+          "start": 2.75,
+          "end": 3.012
+        },
+        {
+          "word": "hoy",
+          "start": 3.312,
+          "end": 3.462
+        },
+        {
+          "word": "empaquetamos",
+          "start": 3.475,
+          "end": 4.187
+        },
+        {
+          "word": "un",
+          "start": 4.2,
+          "end": 4.287
+        },
+        {
+          "word": "navegador",
+          "start": 4.3,
+          "end": 4.775
+        },
+        {
+          "word": "entero",
+          "start": 4.787,
+          "end": 5.162
+        },
+        {
+          "word": "solo",
+          "start": 5.175,
+          "end": 5.5
+        },
+        {
+          "word": "para",
+          "start": 5.512,
+          "end": 5.712
+        },
+        {
+          "word": "mostrar",
+          "start": 5.725,
+          "end": 6.15
+        },
+        {
+          "word": "un",
+          "start": 6.162,
+          "end": 6.262
+        },
+        {
+          "word": "reloj.",
+          "start": 6.275,
+          "end": 6.7
+        }
+      ],
+      "visualTemplate": {
+        "type": "infographic_split",
+        "title": "Ingeniería Aeroespacial vs. Desarrollo Web Moderno",
+        "leftPanel": {
+          "label": "AGC APOLO 11 (1969)",
+          "value": "36 KB ROM",
+          "description": "Multitarea cooperativa en tiempo real, ensamblador puro y cero caídas de sistema.",
+          "icon": "rocket",
+          "highlightColor": "#10b981"
+        },
+        "rightPanel": {
+          "label": "APP TO-DO PROMEDIO (2026)",
+          "value": "1,420 paquetes",
+          "description": "850 MB en node_modules y tres instancias de Chromium para tachar la lista del súper.",
+          "icon": "flame",
+          "highlightColor": "#f43f5e"
+        },
+        "versusTag": "VS"
+      }
+    },
+    {
+      "id": "scene_03_counter",
+      "dialogue": "Con dieciséis gigabytes de memoria unificada en el chip M cinco, podemos renderizar video vectorial a velocidad absurda.",
+      "speaker": "narrator",
+      "durationInFrames": 235,
+      "characterPose": "explaining",
+      "cameraAction": "shake",
+      "sfx": "ding",
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.09,
+          "value": "B"
+        },
+        {
+          "start": 0.09,
+          "end": 0.18,
+          "value": "D"
+        },
+        {
+          "start": 0.18,
+          "end": 0.27,
+          "value": "B"
+        },
+        {
+          "start": 0.27,
+          "end": 0.36,
+          "value": "C"
+        },
+        {
+          "start": 0.36,
+          "end": 0.45,
+          "value": "B"
+        },
+        {
+          "start": 0.45,
+          "end": 0.54,
+          "value": "D"
+        },
+        {
+          "start": 0.54,
+          "end": 0.63,
+          "value": "A"
+        },
+        {
+          "start": 0.63,
+          "end": 0.72,
+          "value": "C"
+        },
+        {
+          "start": 0.72,
+          "end": 0.81,
+          "value": "A"
+        },
+        {
+          "start": 0.81,
+          "end": 0.9,
+          "value": "C"
+        },
+        {
+          "start": 0.9,
+          "end": 0.99,
+          "value": "B"
+        },
+        {
+          "start": 0.99,
+          "end": 1.08,
+          "value": "C"
+        },
+        {
+          "start": 1.08,
+          "end": 1.17,
+          "value": "B"
+        },
+        {
+          "start": 1.17,
+          "end": 1.26,
+          "value": "C"
+        },
+        {
+          "start": 1.26,
+          "end": 1.35,
+          "value": "B"
+        },
+        {
+          "start": 1.35,
+          "end": 1.44,
+          "value": "C"
+        },
+        {
+          "start": 1.44,
+          "end": 1.53,
+          "value": "A"
+        },
+        {
+          "start": 1.53,
+          "end": 1.62,
+          "value": "D"
+        },
+        {
+          "start": 1.62,
+          "end": 1.71,
+          "value": "A"
+        },
+        {
+          "start": 1.71,
+          "end": 1.8,
+          "value": "C"
+        },
+        {
+          "start": 1.8,
+          "end": 1.89,
+          "value": "B"
+        },
+        {
+          "start": 1.89,
+          "end": 1.98,
+          "value": "D"
+        },
+        {
+          "start": 1.98,
+          "end": 2.07,
+          "value": "A"
+        },
+        {
+          "start": 2.07,
+          "end": 2.16,
+          "value": "D"
+        },
+        {
+          "start": 2.16,
+          "end": 2.25,
+          "value": "B"
+        },
+        {
+          "start": 2.25,
+          "end": 2.34,
+          "value": "C"
+        },
+        {
+          "start": 2.34,
+          "end": 2.43,
+          "value": "B"
+        },
+        {
+          "start": 2.43,
+          "end": 2.52,
+          "value": "D"
+        },
+        {
+          "start": 2.52,
+          "end": 2.61,
+          "value": "B"
+        },
+        {
+          "start": 2.61,
+          "end": 2.7,
+          "value": "D"
+        },
+        {
+          "start": 2.7,
+          "end": 2.79,
+          "value": "A"
+        },
+        {
+          "start": 2.79,
+          "end": 2.88,
+          "value": "D"
+        },
+        {
+          "start": 2.88,
+          "end": 2.97,
+          "value": "B"
+        },
+        {
+          "start": 2.97,
+          "end": 3.06,
+          "value": "D"
+        },
+        {
+          "start": 3.06,
+          "end": 3.15,
+          "value": "B"
+        },
+        {
+          "start": 3.15,
+          "end": 3.24,
+          "value": "C"
+        },
+        {
+          "start": 3.24,
+          "end": 3.33,
+          "value": "A"
+        },
+        {
+          "start": 3.33,
+          "end": 3.42,
+          "value": "C"
+        },
+        {
+          "start": 3.42,
+          "end": 3.51,
+          "value": "B"
+        },
+        {
+          "start": 3.51,
+          "end": 3.6,
+          "value": "C"
+        },
+        {
+          "start": 3.6,
+          "end": 3.69,
+          "value": "B"
+        },
+        {
+          "start": 3.69,
+          "end": 3.78,
+          "value": "D"
+        },
+        {
+          "start": 3.78,
+          "end": 3.87,
+          "value": "A"
+        },
+        {
+          "start": 3.87,
+          "end": 3.96,
+          "value": "C"
+        },
+        {
+          "start": 3.96,
+          "end": 4.05,
+          "value": "B"
+        },
+        {
+          "start": 4.05,
+          "end": 4.14,
+          "value": "D"
+        },
+        {
+          "start": 4.14,
+          "end": 4.23,
+          "value": "A"
+        },
+        {
+          "start": 4.23,
+          "end": 4.32,
+          "value": "D"
+        },
+        {
+          "start": 4.32,
+          "end": 4.41,
+          "value": "A"
+        },
+        {
+          "start": 4.41,
+          "end": 4.5,
+          "value": "D"
+        },
+        {
+          "start": 4.5,
+          "end": 4.59,
+          "value": "B"
+        },
+        {
+          "start": 4.59,
+          "end": 4.68,
+          "value": "D"
+        },
+        {
+          "start": 4.68,
+          "end": 4.77,
+          "value": "B"
+        },
+        {
+          "start": 4.77,
+          "end": 4.86,
+          "value": "C"
+        },
+        {
+          "start": 4.86,
+          "end": 4.95,
+          "value": "B"
+        },
+        {
+          "start": 4.95,
+          "end": 5.04,
+          "value": "D"
+        },
+        {
+          "start": 5.04,
+          "end": 5.13,
+          "value": "B"
+        },
+        {
+          "start": 5.13,
+          "end": 5.22,
+          "value": "D"
+        },
+        {
+          "start": 5.22,
+          "end": 5.31,
+          "value": "B"
+        },
+        {
+          "start": 5.31,
+          "end": 5.4,
+          "value": "C"
+        },
+        {
+          "start": 5.4,
+          "end": 5.49,
+          "value": "A"
+        },
+        {
+          "start": 5.49,
+          "end": 5.58,
+          "value": "C"
+        },
+        {
+          "start": 5.58,
+          "end": 5.67,
+          "value": "B"
+        },
+        {
+          "start": 5.67,
+          "end": 5.76,
+          "value": "D"
+        },
+        {
+          "start": 5.76,
+          "end": 5.85,
+          "value": "B"
+        },
+        {
+          "start": 5.85,
+          "end": 5.94,
+          "value": "D"
+        },
+        {
+          "start": 5.94,
+          "end": 6.03,
+          "value": "B"
+        },
+        {
+          "start": 6.03,
+          "end": 6.12,
+          "value": "D"
+        },
+        {
+          "start": 6.12,
+          "end": 6.21,
+          "value": "B"
+        },
+        {
+          "start": 6.21,
+          "end": 6.3,
+          "value": "C"
+        },
+        {
+          "start": 6.3,
+          "end": 6.39,
+          "value": "A"
+        },
+        {
+          "start": 6.39,
+          "end": 6.48,
+          "value": "D"
+        },
+        {
+          "start": 6.48,
+          "end": 6.57,
+          "value": "B"
+        },
+        {
+          "start": 6.57,
+          "end": 6.66,
+          "value": "C"
+        },
+        {
+          "start": 6.66,
+          "end": 6.75,
+          "value": "A"
+        },
+        {
+          "start": 6.75,
+          "end": 6.84,
+          "value": "D"
+        },
+        {
+          "start": 6.84,
+          "end": 6.93,
+          "value": "B"
+        },
+        {
+          "start": 6.93,
+          "end": 7.02,
+          "value": "C"
+        },
+        {
+          "start": 7.02,
+          "end": 7.11,
+          "value": "A"
+        },
+        {
+          "start": 7.11,
+          "end": 7.2,
+          "value": "D"
+        },
+        {
+          "start": 7.2,
+          "end": 7.29,
+          "value": "B"
+        },
+        {
+          "start": 7.29,
+          "end": 7.38,
+          "value": "D"
+        },
+        {
+          "start": 7.38,
+          "end": 7.82,
+          "value": "X"
+        }
+      ],
+      "wordTimestamps": [
+        {
+          "word": "Con",
+          "start": 0.05,
+          "end": 0.225
+        },
+        {
+          "word": "dieciséis",
+          "start": 0.237,
+          "end": 0.787
+        },
+        {
+          "word": "gigabytes",
+          "start": 0.8,
+          "end": 1.412
+        },
+        {
+          "word": "de",
+          "start": 1.425,
+          "end": 1.5
+        },
+        {
+          "word": "memoria",
+          "start": 1.512,
+          "end": 1.95
+        },
+        {
+          "word": "unificada",
+          "start": 1.962,
+          "end": 2.512
+        },
+        {
+          "word": "en",
+          "start": 2.525,
+          "end": 2.612
+        },
+        {
+          "word": "el",
+          "start": 2.625,
+          "end": 2.737
+        },
+        {
+          "word": "chip",
+          "start": 2.75,
+          "end": 2.987
+        },
+        {
+          "word": "M",
+          "start": 3,
+          "end": 3.1
+        },
+        {
+          "word": "cinco,",
+          "start": 3.112,
+          "end": 3.537
+        },
+        {
+          "word": "podemos",
+          "start": 3.825,
+          "end": 4.25
+        },
+        {
+          "word": "renderizar",
+          "start": 4.262,
+          "end": 4.812
+        },
+        {
+          "word": "video",
+          "start": 4.825,
+          "end": 5.15
+        },
+        {
+          "word": "vectorial",
+          "start": 5.162,
+          "end": 5.737
+        },
+        {
+          "word": "a",
+          "start": 5.75,
+          "end": 5.787
+        },
+        {
+          "word": "velocidad",
+          "start": 5.8,
+          "end": 6.375
+        },
+        {
+          "word": "absurda.",
+          "start": 6.387,
+          "end": 6.962
+        }
+      ],
+      "visualTemplate": {
+        "type": "infographic_counter",
+        "title": "Potencia Bruta del Pipeline en Apple Silicon",
+        "fromValue": 0,
+        "toValue": 439.8,
+        "prefix": "x",
+        "suffix": "K",
+        "decimals": 1,
+        "label": "MULTIPLICADOR DE MEMORIA FRENTE AL APOLO 11",
+        "comparisonText": "Presupuesto térmico pasivo en MacBook Air M5 manteniendo el uso de RAM bajo 8 GB.",
+        "icon": "cpu",
+        "accentColor": "#f59e0b"
+      }
+    },
+    {
+      "id": "scene_04_list",
+      "dialogue": "Por eso diseñamos este orquestador con contratos Zod estrictos, vectores puros y lip sync exacto al milisegundo.",
+      "speaker": "narrator",
+      "durationInFrames": 220,
+      "characterPose": "neutral",
+      "cameraAction": "zoom_in_slow",
+      "sfx": "pop",
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.09,
+          "value": "A"
+        },
+        {
+          "start": 0.09,
+          "end": 0.18,
+          "value": "C"
+        },
+        {
+          "start": 0.18,
+          "end": 0.27,
+          "value": "B"
+        },
+        {
+          "start": 0.27,
+          "end": 0.36,
+          "value": "C"
+        },
+        {
+          "start": 0.36,
+          "end": 0.45,
+          "value": "B"
+        },
+        {
+          "start": 0.45,
+          "end": 0.54,
+          "value": "D"
+        },
+        {
+          "start": 0.54,
+          "end": 0.63,
+          "value": "B"
+        },
+        {
+          "start": 0.63,
+          "end": 0.72,
+          "value": "D"
+        },
+        {
+          "start": 0.72,
+          "end": 0.81,
+          "value": "B"
+        },
+        {
+          "start": 0.81,
+          "end": 0.9,
+          "value": "D"
+        },
+        {
+          "start": 0.9,
+          "end": 0.99,
+          "value": "A"
+        },
+        {
+          "start": 0.99,
+          "end": 1.08,
+          "value": "C"
+        },
+        {
+          "start": 1.08,
+          "end": 1.17,
+          "value": "A"
+        },
+        {
+          "start": 1.17,
+          "end": 1.26,
+          "value": "C"
+        },
+        {
+          "start": 1.26,
+          "end": 1.35,
+          "value": "B"
+        },
+        {
+          "start": 1.35,
+          "end": 1.44,
+          "value": "D"
+        },
+        {
+          "start": 1.44,
+          "end": 1.53,
+          "value": "B"
+        },
+        {
+          "start": 1.53,
+          "end": 1.62,
+          "value": "C"
+        },
+        {
+          "start": 1.62,
+          "end": 1.71,
+          "value": "B"
+        },
+        {
+          "start": 1.71,
+          "end": 1.8,
+          "value": "D"
+        },
+        {
+          "start": 1.8,
+          "end": 1.89,
+          "value": "B"
+        },
+        {
+          "start": 1.89,
+          "end": 1.98,
+          "value": "C"
+        },
+        {
+          "start": 1.98,
+          "end": 2.07,
+          "value": "B"
+        },
+        {
+          "start": 2.07,
+          "end": 2.16,
+          "value": "D"
+        },
+        {
+          "start": 2.16,
+          "end": 2.25,
+          "value": "A"
+        },
+        {
+          "start": 2.25,
+          "end": 2.34,
+          "value": "D"
+        },
+        {
+          "start": 2.34,
+          "end": 2.43,
+          "value": "B"
+        },
+        {
+          "start": 2.43,
+          "end": 2.52,
+          "value": "C"
+        },
+        {
+          "start": 2.52,
+          "end": 2.61,
+          "value": "A"
+        },
+        {
+          "start": 2.61,
+          "end": 2.7,
+          "value": "D"
+        },
+        {
+          "start": 2.7,
+          "end": 2.79,
+          "value": "B"
+        },
+        {
+          "start": 2.79,
+          "end": 2.88,
+          "value": "D"
+        },
+        {
+          "start": 2.88,
+          "end": 2.97,
+          "value": "A"
+        },
+        {
+          "start": 2.97,
+          "end": 3.06,
+          "value": "D"
+        },
+        {
+          "start": 3.06,
+          "end": 3.15,
+          "value": "B"
+        },
+        {
+          "start": 3.15,
+          "end": 3.24,
+          "value": "D"
+        },
+        {
+          "start": 3.24,
+          "end": 3.33,
+          "value": "B"
+        },
+        {
+          "start": 3.33,
+          "end": 3.42,
+          "value": "C"
+        },
+        {
+          "start": 3.42,
+          "end": 3.51,
+          "value": "B"
+        },
+        {
+          "start": 3.51,
+          "end": 3.6,
+          "value": "C"
+        },
+        {
+          "start": 3.6,
+          "end": 3.69,
+          "value": "B"
+        },
+        {
+          "start": 3.69,
+          "end": 3.78,
+          "value": "D"
+        },
+        {
+          "start": 3.78,
+          "end": 3.87,
+          "value": "B"
+        },
+        {
+          "start": 3.87,
+          "end": 3.96,
+          "value": "C"
+        },
+        {
+          "start": 3.96,
+          "end": 4.05,
+          "value": "A"
+        },
+        {
+          "start": 4.05,
+          "end": 4.14,
+          "value": "D"
+        },
+        {
+          "start": 4.14,
+          "end": 4.23,
+          "value": "B"
+        },
+        {
+          "start": 4.23,
+          "end": 4.32,
+          "value": "D"
+        },
+        {
+          "start": 4.32,
+          "end": 4.41,
+          "value": "A"
+        },
+        {
+          "start": 4.41,
+          "end": 4.5,
+          "value": "D"
+        },
+        {
+          "start": 4.5,
+          "end": 4.59,
+          "value": "B"
+        },
+        {
+          "start": 4.59,
+          "end": 4.68,
+          "value": "D"
+        },
+        {
+          "start": 4.68,
+          "end": 4.77,
+          "value": "A"
+        },
+        {
+          "start": 4.77,
+          "end": 4.86,
+          "value": "D"
+        },
+        {
+          "start": 4.86,
+          "end": 4.95,
+          "value": "A"
+        },
+        {
+          "start": 4.95,
+          "end": 5.04,
+          "value": "D"
+        },
+        {
+          "start": 5.04,
+          "end": 5.13,
+          "value": "B"
+        },
+        {
+          "start": 5.13,
+          "end": 5.22,
+          "value": "D"
+        },
+        {
+          "start": 5.22,
+          "end": 5.31,
+          "value": "B"
+        },
+        {
+          "start": 5.31,
+          "end": 5.4,
+          "value": "D"
+        },
+        {
+          "start": 5.4,
+          "end": 5.49,
+          "value": "A"
+        },
+        {
+          "start": 5.49,
+          "end": 5.58,
+          "value": "D"
+        },
+        {
+          "start": 5.58,
+          "end": 5.67,
+          "value": "A"
+        },
+        {
+          "start": 5.67,
+          "end": 5.76,
+          "value": "C"
+        },
+        {
+          "start": 5.76,
+          "end": 5.85,
+          "value": "B"
+        },
+        {
+          "start": 5.85,
+          "end": 5.94,
+          "value": "D"
+        },
+        {
+          "start": 5.94,
+          "end": 6.03,
+          "value": "B"
+        },
+        {
+          "start": 6.03,
+          "end": 6.12,
+          "value": "C"
+        },
+        {
+          "start": 6.12,
+          "end": 6.21,
+          "value": "A"
+        },
+        {
+          "start": 6.21,
+          "end": 6.3,
+          "value": "C"
+        },
+        {
+          "start": 6.3,
+          "end": 6.39,
+          "value": "B"
+        },
+        {
+          "start": 6.39,
+          "end": 6.48,
+          "value": "D"
+        },
+        {
+          "start": 6.48,
+          "end": 7.32,
+          "value": "X"
+        }
+      ],
+      "wordTimestamps": [
+        {
+          "word": "Por",
+          "start": 0.05,
+          "end": 0.212
+        },
+        {
+          "word": "eso",
+          "start": 0.225,
+          "end": 0.412
+        },
+        {
+          "word": "diseñamos",
+          "start": 0.425,
+          "end": 1.05
+        },
+        {
+          "word": "este",
+          "start": 1.062,
+          "end": 1.25
+        },
+        {
+          "word": "orquestador",
+          "start": 1.262,
+          "end": 1.825
+        },
+        {
+          "word": "con",
+          "start": 1.837,
+          "end": 1.987
+        },
+        {
+          "word": "contratos",
+          "start": 2,
+          "end": 2.537
+        },
+        {
+          "word": "Zod",
+          "start": 2.55,
+          "end": 2.725
+        },
+        {
+          "word": "estrictos,",
+          "start": 2.737,
+          "end": 3.35
+        },
+        {
+          "word": "vectores",
+          "start": 3.6,
+          "end": 4.112
+        },
+        {
+          "word": "puros",
+          "start": 4.125,
+          "end": 4.562
+        },
+        {
+          "word": "y",
+          "start": 4.575,
+          "end": 4.65
+        },
+        {
+          "word": "lip",
+          "start": 4.662,
+          "end": 4.862
+        },
+        {
+          "word": "sync",
+          "start": 4.875,
+          "end": 5.125
+        },
+        {
+          "word": "exacto",
+          "start": 5.137,
+          "end": 5.575
+        },
+        {
+          "word": "al",
+          "start": 5.587,
+          "end": 5.662
+        },
+        {
+          "word": "milisegundo.",
+          "start": 5.675,
+          "end": 6.437
+        }
+      ],
+      "visualTemplate": {
+        "type": "infographic_list",
+        "title": "Pilares del Motor Visual Remotion (Fase 1)",
+        "subtitle": "Arquitectura determinista lista para conectar TTS y Rhubarb en Fase 2",
+        "items": [
+          {
+            "title": "Contratos Zod Inmutables",
+            "detail": "Validación estricta de esquemas IdeaBrief y Episode antes de cada frame.",
+            "tag": "ZOD SCHEMA",
+            "icon": "shield"
+          },
+          {
+            "title": "Rigging SVG + Lip-Sync a 0.15s",
+            "detail": "Superposición absoluta de visemas A-H y X calculada con useCurrentFrame() / fps.",
+            "tag": "60/30 FPS",
+            "icon": "sparkles"
+          },
+          {
+            "title": "Cámara 2D Física con Spring()",
+            "detail": "Movimientos cinemáticos fluidos (zoom, pan, shake) acelerados por GPU.",
+            "tag": "M5 READY",
+            "icon": "zap"
+          }
+        ],
+        "accentColor": "#a855f7"
+      }
+    }
+  ]
+}

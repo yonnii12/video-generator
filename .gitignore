@@ -1,0 +1,29 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno y secretos (NUNCA subir .env)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Binarios externos descargados por scripts/setup-rhubarb.ts (~90 MB)
+bin/
+
+# Videos renderizados (~75 MB+)
+out/
+
+# Audios WAV temporales generados por TTS (~7.5 MB+)
+public/generated/
+
+# Artefactos de compilación y cachés
+dist/
+.remotion/
+*.tsbuildinfo
+*.log
+npm-debug.log*
+
+# Archivos de sistema operativo (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride

@@ -1,0 +1,46 @@
+{
+  "name": "orchestrator-2d-remotion",
+  "version": "0.1.0",
+  "description": "Orquestador de videos animados 2D en TypeScript usando Remotion (Fase 1)",
+  "private": true,
+  "scripts": {
+    "preview": "remotion studio",
+    "start": "remotion studio",
+    "build": "remotion render Episode out/episode.mp4",
+    "typecheck": "tsc --noEmit",
+    "generate:placeholders": "tsx scripts/generate-placeholders.ts",
+    "generate:sfx": "tsx scripts/generate-sfx.ts",
+    "setup:rhubarb": "tsx scripts/setup-rhubarb.ts",
+    "test:audio": "tsx src/cli/test-audio.ts",
+    "ideate": "tsx src/cli/ideate.ts",
+    "generate-script": "tsx src/cli/generate-script.ts",
+    "generate:script": "tsx src/cli/generate-script.ts",
+    "produce": "tsx src/cli/produce.ts",
+    "render": "tsx src/cli/render.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.36.3",
+    "@remotion/cli": "4.0.242",
+    "@remotion/tailwind": "4.0.242",
+    "commander": "^13.1.0",
+    "dotenv": "^16.4.7",
+    "lucide-react": "^0.468.0",
+    "node-edge-tts": "^1.2.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.242",
+    "wavefile": "^11.0.0",
+    "zod": "^3.24.1",
+    "zod-to-json-schema": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "habitos-procrastinar-sueno-005",
+    "title": "Venganza nocturna: por qué te niegas a dormir aunque estés agotado",
+    "viralScore": 96,
+    "status": "produced",
+    "hook": "No te quedas despierto porque no tengas sueño: es tu cerebro robándole horas a la noche para vengarse de tu jefe.",
+    "hardStats": [
+      {
+        "value": "73%",
+        "label": "Prevalencia de la 'procrastinación del sueño por venganza' en trabajadores con jornadas laborales demandantes",
+        "comparison": "Casi tres de cada cuatro adultos prefieren incendiar su reloj biológico con tal de poseer dos horas de soberanía falsa."
+      },
+      {
+        "value": "33%",
+        "label": "Incremento relativo en biomarcadores de estrés celular e inflamación por recortar voluntariamente dos horas de descanso",
+        "comparison": "Envejecer a velocidad acelerada solo para ver a un sujeto en YouTube restaurando espadas oxidadas a las 3:00 AM."
+      }
+    ],
+    "humorAngles": [
+      "Tu 'yo nocturno' se cree un rebelde antisistema que castiga al 'yo diurno', quien mañana tendrá que pagar el alquiler.",
+      "Sacrificas un tercio de tu sistema inmune a cambio de 120 minutos de memes que olvidarás en cuanto pestañees."
+    ]
+  },
+  {
+    "id": "habitos-alarma-snooze-001",
+    "title": "Por qué posponer tu alarma te destruye el cerebro (literalmente)",
+    "viralScore": 94,
+    "status": "pending",
+    "hook": "Cada vez que pulsas 'posponer', tu cerebro no descansa: simula un microcoma químico que destruye tu coeficiente intelectual todo el día.",
+    "hardStats": [
+      {
+        "value": "4 horas",
+        "label": "Duración de la inercia del sueño provocada por fragmentar el ciclo REM al usar el botón de repetición",
+        "comparison": "Equivale al deterioro cognitivo de tener 0.05% de alcohol en sangre durante tu primera reunión laboral."
+      },
+      {
+        "value": "57%",
+        "label": "Porcentaje de adultos que utilizan habitualmente el botón de repetición cada mañana",
+        "comparison": "Más de la mitad del planeta civilizado saboteando voluntariamente su corteza prefrontal antes de levantarse."
+      }
+    ],
+    "humorAngles": [
+      "Tu despertador inventó una tortura medieval donde tú eres el verdugo y pagas una suscripción para escucharla.",
+      "El optimismo suicida de creer que 9 minutos adicionales en posición fetal resolverán 30 años de malas decisiones."
+    ]
+  },
+  {
+    "id": "habitos-celular-bano-002",
+    "title": "La perturbadora razón por la que no puedes ir al baño sin tu celular",
+    "viralScore": 91,
+    "status": "pending",
+    "hook": "No vas al baño a defecar; tu cerebro secuestró tu sistema digestivo para obtener dopamina barata sin testigos.",
+    "hardStats": [
+      {
+        "value": "1 de cada 6",
+        "label": "Smartphones que contienen materia fecal detectable según la Escuela de Higiene y Medicina Tropical de Londres",
+        "comparison": "Básicamente estás respondiendo correos de trabajo mientras sostienes una placa de Petri de aguas residuales."
+      },
+      {
+        "value": "300%",
+        "label": "Aumento en el tiempo promedio sentado en la taza del inodoro al usar un teléfono inteligente",
+        "comparison": "Tiempo biológico suficiente para acelerar la formación de hemorroides por gravedad mientras miras recetas que jamás cocinarás."
+      }
+    ],
+    "humorAngles": [
+      "El inodoro solía ser un templo de reflexión existencial; ahora es una incubadora bacteriana con conectividad 5G.",
+      "Doscientos mil años de evolución humana para terminar con ambas piernas dormidas por ver peleas de desconocidos en internet."
+    ]
+  },
+  {
+    "id": "habitos-abrir-refrigerador-004",
+    "title": "Por qué abres la nevera cada 10 minutos esperando comida mágica",
+    "viralScore": 89,
+    "status": "pending",
+    "hook": "Abrir la nevera vacía no es hambre física: es tu cerebro rogando por un milagro dopaminérgico para no afrontar tu existencia.",
+    "hardStats": [
+      {
+        "value": "15 a 20 veces",
+        "label": "Frecuencia diaria promedio en que una persona abre el refrigerador sin presentar apetito biológico",
+        "comparison": "Equivale a abrir y cerrar una caja fuerte vacía cada media hora esperando que broten lingotes de oro."
+      },
+      {
+        "value": "40%",
+        "label": "Porcentaje de ingestas alimentarias diarias guiadas exclusivamente por circuitos de automatismo cerebral y aburrimiento",
+        "comparison": "Casi la mitad de tu presupuesto calórico es simplemente un protector de pantalla mental para evitar el silencio."
+      }
+    ],
+    "humorAngles": [
+      "Abres la puerta con la fe ciega de que el hada de los carbohidratos actualizó los servidores de tu cocina.",
+      "Esa inspección hipnótica de una mostaza vencida en 2022 es la verdadera meditación trascendental contemporánea."
+    ]
+  },
+  {
+    "id": "habitos-morderse-unas-003",
+    "title": "El zoológico invisible que devoras cada vez que te muerdes las uñas",
+    "viralScore": 88,
+    "status": "pending",
+    "hook": "Morderte las uñas no es un tic nervioso inocente: estás tragando un cóctel biológico dos veces más sucio que un billete.",
+    "hardStats": [
+      {
+        "value": "2x más bacterias",
+        "label": "Carga microbiana debajo del lecho ungueal en comparación con el resto de la superficie de las manos",
+        "comparison": "Un ecosistema microscópico más contaminado que el teclado compartido de un cibercafé abandonado."
+      },
+      {
+        "value": "76%",
+        "label": "Incidencia de colonización por enterobacterias patógenas (como E. coli) en la saliva de personas con onicofagia",
+        "comparison": "Una microdosis diaria de bacterias de drenaje servida directamente como tentempié personal."
+      }
+    ],
+    "humorAngles": [
+      "Te niegas a comer algo que tocó el piso un segundo, pero devoras tus cutículas marinadas en el pasamanos del metro.",
+      "Tus glóbulos blancos no tienen fines de semana libres porque los obligas a librar la Tercera Guerra Mundial en tus encías."
+    ]
+  }
+]

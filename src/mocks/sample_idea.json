@@ -1,0 +1,23 @@
+{
+  "id": "idea-apple-silicon-m5-001",
+  "title": "Por qué tu código tarda más en compilar que en llegar a la Luna",
+  "viralScore": 94,
+  "status": "approved",
+  "hook": "Tu laptop tiene un millón de veces más memoria que el Apolo 11, pero abrir Slack consume 2 GB de RAM.",
+  "hardStats": [
+    {
+      "value": "16 GB",
+      "label": "Memoria Unificada en MacBook Air M5",
+      "comparison": "439,804 veces más RAM que la computadora de guía del Apolo 11 (36 KB)"
+    },
+    {
+      "value": "850 MB",
+      "label": "Peso promedio de node_modules en un Hola Mundo",
+      "comparison": "Suficiente para almacenar la obra completa de Shakespeare 170 veces"
+    }
+  ],
+  "humorAngles": [
+    "Los ingenieros de la NASA alunizaron con 4 KB de RAM; nosotros necesitamos 16 GB para centrar un div.",
+    "Electron convirtiendo una app de notas en un navegador Chromium dedicado con hambre infinita."
+  ]
+}
